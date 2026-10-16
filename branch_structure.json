@@ -1,0 +1,18 @@
+{
+  "default_branch": "dev",
+  "branches": [
+    "dev",
+    "origin",
+    "wave-9/1232-define-authorization-failure-taxonomy-for-payer-checks"
+  ],
+  "parent": {
+    "dev": null,
+    "origin": "dev",
+    "wave-9/1232-define-authorization-failure-taxonomy-for-payer-checks": "dev"
+  },
+  "order": [
+    "dev",
+    "origin",
+    "wave-9/1232-define-authorization-failure-taxonomy-for-payer-checks"
+  ]
+}
